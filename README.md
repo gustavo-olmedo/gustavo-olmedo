@@ -24,6 +24,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Databases**
 
@@ -50,9 +52,7 @@
 
 ## Learning
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <!--
 
